@@ -1,0 +1,1823 @@
+{
+    "animal": [
+        {
+            "en": "Animals that start with the letter A",
+            "ph": "Mga hayop na nagsisimula sa letrang A",
+            "answers": [
+                "Aardvark",
+                "Albatross",
+                "Alligator",
+                "Alpaca",
+                "Antelope",
+                "Anteater",
+                "Armadillo",
+                "Axolotl",
+                "Anaconda",
+                "Arctic Fox"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter B",
+            "ph": "Mga hayop na nagsisimula sa letrang B",
+            "answers": [
+                "Baboon",
+                "Badger",
+                "Bandicoot",
+                "Barracuda",
+                "Bison",
+                "Blackbird",
+                "Boa Constrictor",
+                "Bobcat",
+                "Bonobo",
+                "Bumblebee",
+                "Butterfly",
+                "Bullfrog",
+                "Bactrian Camel",
+                "Bongo",
+                "Blue Jay"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter C",
+            "ph": "Mga hayop na nagsisimula sa letrang C",
+            "answers": [
+                "Cat",
+                "Camel",
+                "Capybara",
+                "Cheetah",
+                "Chimpanzee",
+                "Crab",
+                "Cougar",
+                "Coyote",
+                "Crocodile",
+                "Canary",
+                "Caribou",
+                "Chinchilla",
+                "Cobra",
+                "Cockatoo",
+                "Clownfish",
+                "Civet",
+                "Crane",
+                "Caterpillar",
+                "Cassowary",
+                "Chameleon"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter D",
+            "ph": "Mga hayop na nagsisimula sa letrang D",
+            "answers": [
+                "Dog",
+                "Dolphin",
+                "Deer",
+                "Duck",
+                "Donkey",
+                "Dingo",
+                "Dragonfly",
+                "Dugong",
+                "Dormouse",
+                "Dodo"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter E",
+            "ph": "Mga hayop na nagsisimula sa letrang E",
+            "answers": [
+                "Elephant",
+                "Eel",
+                "Emu",
+                "Eagle",
+                "Elk",
+                "Ermine",
+                "Eland",
+                "Echidna",
+                "Egret",
+                "Earthworm"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter F",
+            "ph": "Mga hayop na nagsisimula sa letrang F",
+            "answers": [
+                "Falcon",
+                "Flamingo",
+                "Ferret",
+                "Frog",
+                "Fox",
+                "Fossa",
+                "Firefly",
+                "Flounder",
+                "Finch",
+                "Fiddler crab"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter G",
+            "ph": "Mga hayop na nagsisimula sa letrang G",
+            "answers": [
+                "Giraffe",
+                "Gorilla",
+                "Gecko",
+                "Gazelle",
+                "Guinea Pig",
+                "Goldfish",
+                "Gibbon",
+                "Great White Shark",
+                "Grasshopper",
+                "Grouse"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter H",
+            "ph": "Mga hayop na nagsisimula sa letrang H",
+            "answers": [
+                "Hawk",
+                "Hippopotamus",
+                "Hedgehog",
+                "Horse",
+                "Hyena",
+                "Hummingbird",
+                "Heron",
+                "Hamster",
+                "Hornet",
+                "Hermit Crab"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter J",
+            "ph": "Mga hayop na nagsisimula sa letrang J",
+            "answers": [
+                "Jaguar",
+                "Jellyfish",
+                "Jackal",
+                "Jay",
+                "Jerboa",
+                "Jackrabbit",
+                "Junco",
+                "Jacana",
+                "Javelina"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter K",
+            "ph": "Mga hayop na nagsisimula sa letrang K",
+            "answers": [
+                "Kangaroo",
+                "Koala",
+                "Kookaburra",
+                "Kiwi",
+                "Komodo Dragon",
+                "Kudu",
+                "Krill",
+                "Kingfisher",
+                "Kakapo"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter L",
+            "ph": "Mga hayop na nagsisimula sa letrang L",
+            "answers": [
+                "Lion",
+                "Leopard",
+                "Lynx",
+                "Lemur",
+                "Llama",
+                "Lobster",
+                "Lark",
+                "Ladybug",
+                "Langur"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter M",
+            "ph": "Mga hayop na nagsisimula sa letrang M",
+            "answers": [
+                "Moose",
+                "Monkey",
+                "Manta Ray",
+                "Mongoose",
+                "Manatee",
+                "Macaw",
+                "Meerkat",
+                "Mole",
+                "Moth"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter N",
+            "ph": "Mga hayop na nagsisimula sa letrang N",
+            "answers": [
+                "Narwhal",
+                "Newt",
+                "Numbat",
+                "Nightingale",
+                "Nuthatch",
+                "Nautilus",
+                "Nectar Bat",
+                "Nandu",
+                "Nyala"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter O",
+            "ph": "Mga hayop na nagsisimula sa letrang O",
+            "answers": [
+                "Octopus",
+                "Ostrich",
+                "Otter",
+                "Ocelot",
+                "Osprey",
+                "Orangutan",
+                "Okapi",
+                "Orca",
+                "Oryx"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter P",
+            "ph": "Mga hayop na nagsisimula sa letrang P",
+            "answers": [
+                "Panda",
+                "Panther",
+                "Penguin",
+                "Parrot",
+                "Peacock",
+                "Pelican",
+                "Platypus",
+                "Puma",
+                "Porcupine"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter R",
+            "ph": "Mga hayop na nagsisimula sa letrang R",
+            "answers": [
+                "Rabbit",
+                "Raccoon",
+                "Ram",
+                "Rat",
+                "Rattlesnake",
+                "Raven",
+                "Reindeer",
+                "Rhinoceros",
+                "Roadrunner"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter S",
+            "ph": "Mga hayop na nagsisimula sa letrang S",
+            "answers": [
+                "Shark",
+                "Salmon",
+                "Seal",
+                "Swan",
+                "Squirrel",
+                "Sloth",
+                "Snake",
+                "Starfish",
+                "Skunk"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter T",
+            "ph": "Mga hayop na nagsisimula sa letrang T",
+            "answers": [
+                "Tiger",
+                "Turtle",
+                "Turkey",
+                "Toucan",
+                "Tarantula",
+                "Tamarin",
+                "Tasmanian Devil",
+                "Tuna",
+                "Tapir"
+            ]
+        },
+        {
+            "en": "Animals that start with the letter W",
+            "ph": "Mga hayop na nagsisimula sa letrang W",
+            "answers": [
+                "Walrus",
+                "Whale",
+                "Wolf",
+                "Wombat",
+                "Warthog",
+                "Wildebeest",
+                "Weasel",
+                "Woodpecker",
+                "Wolverine"
+            ]
+        }
+    ],
+    "food": [
+        {
+            "en": "Foods that start with the letter A",
+            "ph": "Mga pagkaing nagsisimula sa letrang A (english)",
+            "answers": [
+                "Apple",
+                "Avocado",
+                "Asparagus",
+                "Almonds",
+                "Artichoke",
+                "Arugula",
+                "Apricot"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter B",
+            "ph": "Mga pagkaing nagsisimula sa letrang B (english)",
+            "answers": [
+                "Banana",
+                "Broccoli",
+                "Bread",
+                "Beef",
+                "Bacon",
+                "Brussels sprouts",
+                "Bagel",
+                "Basil",
+                "Beans",
+                "Blueberry"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter C",
+            "ph": "Mga pagkaing nagsisimula sa letrang C (english)",
+            "answers": [
+                "Carrot",
+                "Chicken",
+                "Cheese",
+                "Cauliflower",
+                "Cucumber",
+                "Corn",
+                "Chili",
+                "Cupcake",
+                "Cabbage",
+                "Clams"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter D",
+            "ph": "Mga pagkaing nagsisimula sa letrang D (english)",
+            "answers": [
+                "Donut",
+                "Dumpling",
+                "Duck",
+                "Dragonfruit",
+                "Dough"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter F",
+            "ph": "Mga pagkaing nagsisimula sa letrang E (english)",
+            "answers": [
+                "Fish",
+                "French fries",
+                "Fettuccine",
+                "Fruit",
+                "Flour"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter G",
+            "ph": "Mga pagkaing nagsisimula sa letrang G (english)",
+            "answers": [
+                "Grapes",
+                "Garlic",
+                "Ginger",
+                "Green beans",
+                "Granola"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter H",
+            "ph": "Mga pagkaing nagsisimula sa letrang H (english)",
+            "answers": [
+                "Honey",
+                "Ham",
+                "Hummus",
+                "Hotdog",
+                "Herbs",
+                "Halibut",
+                "Hazelnuts",
+                "Hot sauce",
+                "Hash browns"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter I",
+            "ph": "Mga pagkaing nagsisimula sa letrang I (english)",
+            "answers": [
+                "Ice cream",
+                "Iced tea",
+                "Indian curry",
+                "Imitation crab",
+                "Ice cube"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter J",
+            "ph": "Mga pagkaing nagsisimula sa letrang J (english)",
+            "answers": [
+                "Jalapenos",
+                "Jackfruit",
+                "Jelly",
+                "Jam",
+                "Jasmine rice",
+                "Jicama",
+                "Jambalaya",
+                "Juice"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter L",
+            "ph": "Mga pagkaing nagsisimula sa letrang L (english)",
+            "answers": [
+                "Lettuce",
+                "Lemon",
+                "Lime",
+                "Lasagna",
+                "Lamb",
+                "Lobster",
+                "Lentils",
+                "Lollipop",
+                "Lamb chops",
+                "Leeks"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter M",
+            "ph": "Mga pagkaing nagsisimula sa letrang M (english)",
+            "answers": [
+                "Mango",
+                "Mushroom",
+                "Macaroni",
+                "Meatballs",
+                "Melon",
+                "Muffin",
+                "Mashed potatoes",
+                "Mustard",
+                "Miso",
+                "Marshmallows"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter O",
+            "ph": "Mga pagkaing nagsisimula sa letrang O (english)",
+            "answers": [
+                "Oats",
+                "Olives",
+                "Onions",
+                "Oranges",
+                "Omelet",
+                "Oregano",
+                "Oyster",
+                "Okra",
+                "Oatmeal"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter P",
+            "ph": "Mga pagkaing nagsisimula sa letrang P (english)",
+            "answers": [
+                "Pasta",
+                "Pizza",
+                "Pineapple",
+                "Potato",
+                "Pancakes",
+                "Peppers",
+                "Pork",
+                "Pickles",
+                "Papaya"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter R",
+            "ph": "Mga pagkaing nagsisimula sa letrang R (english)",
+            "answers": [
+                "Rice",
+                "Raspberries",
+                "Radishes",
+                "Raisins",
+                "Ribs",
+                "Ramen",
+                "Roast beef"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter S",
+            "ph": "Mga pagkaing nagsisimula sa letrang S (english)",
+            "answers": [
+                "Spaghetti",
+                "Salmon",
+                "Strawberries",
+                "Spinach",
+                "Steak",
+                "Sushi",
+                "Soup",
+                "Sausage",
+                "Sesame seeds",
+                "Salt"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter T",
+            "ph": "Mga pagkaing nagsisimula sa letrang T (english)",
+            "answers": [
+                "Tomato",
+                "Taco",
+                "Tea",
+                "Toast",
+                "Tuna",
+                "Turkey",
+                "Tapioca",
+                "Turnip",
+                "Tiramisu",
+                "Tortilla"
+            ]
+        },
+        {
+            "en": "Foods that start with the letter W",
+            "ph": "Mga pagkaing nagsisimula sa letrang W (english)",
+            "answers": [
+                "Watermelon",
+                "Waffles",
+                "Walnuts",
+                "Wheat",
+                "Wasabi",
+                "White chocolate",
+                "Wiener",
+                "Wrap",
+                "Wonton"
+            ]
+        }
+    ],
+    "person": [
+        {
+            "en": "Professions of people that starts with the letter A",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang A (english)",
+            "answers": [
+                "Artist",
+                "Athlete",
+                "Actor",
+                "Author",
+                "Architect",
+                "Archeologist",
+                "Accountant",
+                "Astronomer",
+                "Agent",
+                "Assistant"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter B",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang B (english)",
+            "answers": [
+                "Baker",
+                "Butcher",
+                "Builder",
+                "Bartender",
+                "Banker",
+                "Barber",
+                "Bookkeeper",
+                "Babysitter",
+                "Blacksmith",
+                "Bus driver"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter C",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang C (english)",
+            "answers": [
+                "Chef",
+                "Carpenter",
+                "Cashier",
+                "Clerk",
+                "Coach",
+                "Custodian",
+                "Counselor",
+                "Chauffeur",
+                "Cameraman",
+                "Consultant"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter D",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang D (english)",
+            "answers": [
+                "Doctor",
+                "Driver",
+                "Dentist",
+                "Designer",
+                "Detective",
+                "Director",
+                "Dancer",
+                "Dispatcher",
+                "Dietitian"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter E",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang E (english)",
+            "answers": [
+                "Engineer",
+                "Editor",
+                "Electrician",
+                "Educator",
+                "Economist",
+                "Examiner",
+                "Estimator",
+                "Entrepreneur",
+                "Executive",
+                "Event planner"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter F",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang F (english)",
+            "answers": [
+                "Farmer",
+                "Firefighter",
+                "Fisherman",
+                "Florist",
+                "Foreman",
+                "Filmmaker",
+                "Flight attendant",
+                "Furniture maker"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter G",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang G (english)",
+            "answers": [
+                "Gardener",
+                "Geologist",
+                "Guide",
+                "Goldsmith",
+                "Graphic designer",
+                "Gymnast",
+                "Guard",
+                "Guitarist",
+                "Grader"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter H",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang H (english)",
+            "answers": [
+                "Hairdresser",
+                "Housekeeper",
+                "Handyman",
+                "Horticulturist",
+                "Historian",
+                "Hiker",
+                "Host",
+                "Horseman",
+                "Hypnotist"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter I",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang I (english)",
+            "answers": [
+                "Instructor",
+                "Inspector",
+                "Illustrator",
+                "Interpreter",
+                "Investigator",
+                "Intern",
+                "Inventor",
+                "Immigrant",
+                "Ice skater",
+                "Industrialist"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter J",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang J (english)",
+            "answers": [
+                "Janitor",
+                "Jeweler",
+                "Jockey",
+                "Judge",
+                "Journalist",
+                "Juggler",
+                "Jailer",
+                "Joiner",
+                "Juror",
+                "Justice"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter K",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang K (english)",
+            "answers": [
+                "King",
+                "Knight",
+                "Keymaker",
+                "Keeper",
+                "Kitchen staff",
+                "Kinesiologist",
+                "Knitter",
+                "Kickboxer"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter L",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang L (english)",
+            "answers": [
+                "Lawyer",
+                "Librarian",
+                "Laborer",
+                "Lecturer",
+                "Lifeguard",
+                "Landscaper",
+                "Locksmith",
+                "Lyricist",
+                "Loan officer"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter M",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang M (english)",
+            "answers": [
+                "Mechanic",
+                "Musician",
+                "Magician",
+                "Manager",
+                "Medic",
+                "Mathematician",
+                "Miner",
+                "Mailman",
+                "Manufacturer",
+                "Model"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter N",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang N (english)",
+            "answers": [
+                "Nurse",
+                "Navigator",
+                "Novelist",
+                "Notary",
+                "Nun",
+                "Nutritionist",
+                "Nanny",
+                "Negotiator",
+                "Night watchman"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter O",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang O (english)",
+            "answers": [
+                "Optician",
+                "Operator",
+                "Officer",
+                "Ornithologist",
+                "Orthodontist",
+                "Overseer",
+                "Organizer",
+                "Obstetrician",
+                "Occupant"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter P",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang P (english)",
+            "answers": [
+                "Painter",
+                "Plumber",
+                "Photographer",
+                "Pilot",
+                "Police officer",
+                "Paramedic",
+                "Professor",
+                "Psychologist",
+                "Pharmacist",
+                "Programmer"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter Q",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang Q (english)",
+            "answers": [
+                "Quilter",
+                "Quarantine officer",
+                "Quarryman",
+                "Quality inspector",
+                "Quantitative analyst",
+                "Quizmaster"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter R",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang R (english)",
+            "answers": [
+                "Reporter",
+                "Ranger",
+                "Realtor",
+                "Receptionist",
+                "Roofer",
+                "Radiologist",
+                "Researcher",
+                "Restaurateur"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter S",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang S (english)",
+            "answers": [
+                "Scientist",
+                "Secretary",
+                "Singer",
+                "Surgeon",
+                "Salesperson",
+                "Sculptor",
+                "Soldier",
+                "Student",
+                "Stenographer",
+                "Social worker"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter T",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang T (english)",
+            "answers": [
+                "Teacher",
+                "Technician",
+                "Taxi driver",
+                "Therapist",
+                "Trader",
+                "Teller",
+                "Tour guide",
+                "Trucker",
+                "Translator",
+                "Tester"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter U",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang U (english)",
+            "answers": [
+                "Urologist",
+                "Underwriter",
+                "Usher",
+                "Utility worker",
+                "Umpire",
+                "Unicyclist",
+                "Ultrasonographer"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter V",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang V (english)",
+            "answers": [
+                "Veterinarian",
+                "Valet",
+                "Vocalist",
+                "Videographer",
+                "Volunteer",
+                "Visionary",
+                "Voice actor",
+                "Victim advocate",
+                "Ventriloquist"
+            ]
+        },
+        {
+            "en": "Professions of people that starts with the letter W",
+            "ph": "Mga trabaho ng mga tao na nagsisimula sa letrang W (english)",
+            "answers": [
+                "Waiter",
+                "Waitress",
+                "Welder",
+                "Writer",
+                "Warden",
+                "Woodworker",
+                "Wardrobe stylist",
+                "Weaver",
+                "Workshop leader",
+                "Wholesaler"
+            ]
+        }
+    ],
+    "place": [
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang A",
+            "en": "Countries that start with the letter A",
+            "answers": [
+                "Afghanistan",
+                "Albania",
+                "Algeria",
+                "Andorra",
+                "Angola",
+                "Antigua and Barbuda",
+                "Argentina",
+                "Armenia",
+                "Australia",
+                "Austria",
+                "Azerbaijan"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang B",
+            "en": "Countries that start with the letter B",
+            "answers": [
+                "Bahamas",
+                "Bahrain",
+                "Bangladesh",
+                "Barbados",
+                "Belarus",
+                "Belgium",
+                "Belize",
+                "Bhutan",
+                "Bolivia",
+                "Bosnia and Herzegovina",
+                "Botswana",
+                "Brazil",
+                "Brunei",
+                "Bulgaria",
+                "Burkina Faso",
+                "Burundi"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang C",
+            "en": "Countries that start with the letter C",
+            "answers": [
+                "Cambodia",
+                "Cameroon",
+                "Canada",
+                "Central African Republic",
+                "Chad",
+                "Chile",
+                "China",
+                "Colombia",
+                "Congo",
+                "Costa Rica",
+                "Croatia",
+                "Cuba",
+                "Cyprus",
+                "Czech Republic"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang E",
+            "en": "Countries that start with the letter E",
+            "answers": [
+                "Ecuador",
+                "Egypt",
+                "El Salvador",
+                "Equatorial Guinea",
+                "Eritrea",
+                "Estonia",
+                "Ethiopia"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang G",
+            "en": "Countries that start with the letter G",
+            "answers": [
+                "Georgia",
+                "Germany",
+                "Ghana",
+                "Greece",
+                "Grenada",
+                "Guatemala",
+                "Guinea",
+                "Guyana"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang I",
+            "en": "Countries that start with the letter I",
+            "answers": [
+                "Iceland",
+                "India",
+                "Indonesia",
+                "Iran",
+                "Iraq",
+                "Ireland",
+                "Israel",
+                "Italy"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang K",
+            "en": "Countries that start with the letter K",
+            "answers": [
+                "Kazakhstan",
+                "Kenya",
+                "Kiribati",
+                "Korea",
+                "Kosovo",
+                "Kuwait",
+                "Kyrgyzstan"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang L",
+            "en": "Countries that start with the letter L",
+            "answers": [
+                "Laos",
+                "Latvia",
+                "Lebanon",
+                "Lesotho",
+                "Liberia",
+                "Libya",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang M",
+            "en": "Countries that start with the letter M",
+            "answers": [
+                "Madagascar",
+                "Malaysia",
+                "Maldives",
+                "Mali",
+                "Malta",
+                "Mauritania",
+                "Mauritius",
+                "Mexico",
+                "Micronesia",
+                "Moldova",
+                "Monaco",
+                "Mongolia",
+                "Montenegro",
+                "Morocco",
+                "Mozambique",
+                "Myanmar"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang N",
+            "en": "Countries that start with the letter N",
+            "answers": [
+                "Namibia",
+                "Nepal",
+                "Netherlands",
+                "New Zealand",
+                "Nicaragua",
+                "Niger",
+                "Nigeria",
+                "North Macedonia",
+                "Norway"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang P",
+            "en": "Countries that start with the letter P",
+            "answers": [
+                "Pakistan",
+                "Palau",
+                "Panama",
+                "Papua New Guinea",
+                "Paraguay",
+                "Peru",
+                "Philippines",
+                "Poland",
+                "Portugal"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang S",
+            "en": "Countries that start with the letter S",
+            "answers": [
+                "Samoa",
+                "Saudi Arabia",
+                "Senegal",
+                "Serbia",
+                "Sierra Leone",
+                "Singapore",
+                "Slovakia",
+                "Slovenia",
+                "Somalia",
+                "South Africa",
+                "South Sudan",
+                "Spain",
+                "Sri Lanka",
+                "Sudan",
+                "Suriname",
+                "Sweden",
+                "Switzerland",
+                "Syria"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang T",
+            "en": "Countries that start with the letter T",
+            "answers": [
+                "Tajikistan",
+                "Tanzania",
+                "Thailand",
+                "Timor Leste",
+                "Togo",
+                "Tonga",
+                "Trinidad and Tobago",
+                "Tunisia",
+                "Turkey",
+                "Turkmenistan",
+                "Tuvalu"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang U",
+            "en": "Countries that start with the letter U",
+            "answers": [
+                "Uganda",
+                "Ukraine",
+                "United Arab Emirates",
+                "United Kingdom",
+                "United States",
+                "Uruguay",
+                "Uzbekistan"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagsisimula sa letrang Z",
+            "en": "Countries that contain the letter Z",
+            "answers": [
+                "Azerbaijan",
+                "Belize",
+                "Brazil",
+                "Czech Republic",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Mozambique",
+                "New Zealand",
+                "Swaziland",
+                "Switzerland",
+                "Tajikistan",
+                "Tanzania",
+                "Uzbekistan",
+                "Venezuela",
+                "Zambia",
+                "Zimbabwe"
+            ]
+        },
+        {
+            "ph": "Mga bansa na may letrang CO sa pangalan",
+            "en": "Countries that contain the letters CO in their name",
+            "answers": [
+                "Congo",
+                "Costa Rica",
+                "Morocco",
+                "Mexico",
+                "Colombia"
+            ]
+        },
+        {
+            "ph": "Mga bansa na may 2 words sa pangalan",
+            "en": "Countries with two word names",
+            "answers": [
+                "Burkina Faso",
+                "Cape Verde",
+                "Costa Rica",
+                "Czech Republic",
+                "Dominican Republic",
+                "East Timor",
+                "El Salvador",
+                "Equatorial Guinea",
+                "Guinea Bissau",
+                "Ivory Coast",
+                "Marshall Islands",
+                "Micronesia",
+                "New Zealand",
+                "North Korea",
+                "Saint Lucia",
+                "San Marino",
+                "Saudi Arabia",
+                "Sierra Leone",
+                "Solomon Islands",
+                "South Africa",
+                "South Korea",
+                "South Sudan",
+                "Sri Lanka",
+                "United Kingdom",
+                "United States"
+            ]
+        },
+        {
+            "ph": "Mga bansa na apat na letra ang pangalan",
+            "en": "Countries with names that are 4 letters long",
+            "answers": [
+                "Chad",
+                "Cuba",
+                "Fiji",
+                "Laos",
+                "Mali",
+                "Oman",
+                "Peru",
+                "Togo"
+            ]
+        },
+        {
+            "ph": "Mga bansa na limang letra ang pangalan",
+            "en": "Countries with five letter names",
+            "answers": [
+                "Chile",
+                "Egypt",
+                "Ghana",
+                "Haiti",
+                "India",
+                "Italy",
+                "Japan",
+                "Kenya",
+                "Libya",
+                "Malta",
+                "Nauru",
+                "Niger",
+                "Samoa",
+                "Spain",
+                "Sudan",
+                "Yemen"
+            ]
+        },
+        {
+            "ph": "Mga bansa sa Southeast Asia",
+            "en": "Countries in Southeast Asia",
+            "answers": [
+                "Brunei",
+                "Cambodia",
+                "East Timor",
+                "Indonesia",
+                "Laos",
+                "Malaysia",
+                "Myanmar",
+                "Philippines",
+                "Singapore",
+                "Thailand",
+                "Vietnam"
+            ]
+        },
+        {
+            "ph": "Mga capital cities sa Southeast Asia",
+            "en": "Capital cities in Southeast Asia",
+            "answers": [
+                "Bandar Seri Begawan",
+                "Phnom Penh",
+                "Dili",
+                "Jakarta",
+                "Vientiane",
+                "Kuala Lumpur",
+                "Naypyidaw",
+                "Manila",
+                "Singapore",
+                "Bangkok",
+                "Hanoi"
+            ]
+        },
+        {
+            "ph": "Mga bansa sa Middle East",
+            "en": "Countries in the Middle East",
+            "answers": [
+                "Bahrain",
+                "Cyprus",
+                "Egypt",
+                "Iran",
+                "Iraq",
+                "Israel",
+                "Jordan",
+                "Kuwait",
+                "Lebanon",
+                "Oman",
+                "Palestine",
+                "Qatar",
+                "Saudi Arabia",
+                "Syria",
+                "Turkey",
+                "United Arab Emirates",
+                "Yemen"
+            ]
+        },
+        {
+            "ph": "Mga capital cities sa Middle East",
+            "en": "Capital cities in the Middle East",
+            "answers": [
+                "Abu Dhabi",
+                "Amman",
+                "Baghdad",
+                "Beirut",
+                "Damascus",
+                "Doha",
+                "Jerusalem",
+                "Kuwait City",
+                "Manama",
+                "Muscat",
+                "Riyadh",
+                "Sanaa",
+                "Tehran",
+                "Ankara",
+                "Nicosia"
+            ]
+        },
+        {
+            "ph": "Mga sikat na siyudad sa Europe",
+            "en": "Major capital cities in Europe",
+            "answers": [
+                "Amsterdam",
+                "Athens",
+                "Berlin",
+                "Brussels",
+                "Bucharest",
+                "Budapest",
+                "Copenhagen",
+                "Dublin",
+                "Helsinki",
+                "Lisbon",
+                "London",
+                "Madrid",
+                "Moscow",
+                "Oslo",
+                "Paris",
+                "Prague",
+                "Rome",
+                "Stockholm",
+                "Vienna",
+                "Warsaw"
+            ]
+        },
+        {
+            "ph": "Nordic countries",
+            "en": "Nordic countries",
+            "answers": [
+                "Denmark",
+                "Finland",
+                "Iceland",
+                "Norway",
+                "Sweden"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagtatapos sa -stan",
+            "en": "Countries that end in -stan",
+            "answers": [
+                "Afghanistan",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Pakistan",
+                "Tajikistan",
+                "Turkmenistan",
+                "Uzbekistan"
+            ]
+        },
+        {
+            "ph": "Mga bansa na nagtatapos sa letrang A",
+            "en": "Countries whose names end with the letter A in English",
+            "answers": [
+                "Albania",
+                "Algeria",
+                "Andorra",
+                "Angola",
+                "Argentina",
+                "Armenia",
+                "Australia",
+                "Austria",
+                "Bolivia",
+                "Botswana",
+                "Bulgaria",
+                "Cambodia",
+                "Canada",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cuba",
+                "Ethiopia",
+                "Georgia",
+                "Ghana",
+                "Grenada",
+                "Guatemala",
+                "Guinea",
+                "India",
+                "Indonesia",
+                "Jamaica",
+                "Kenya",
+                "Latvia",
+                "Liberia",
+                "Libya",
+                "Lithuania",
+                "Macedonia",
+                "Malaysia",
+                "Malta",
+                "Mauritania",
+                "Micronesia",
+                "Mongolia",
+                "Namibia",
+                "Nicaragua",
+                "Nigeria",
+                "Panama",
+                "Papua New Guinea",
+                "Romania",
+                "Russia",
+                "Rwanda",
+                "Samoa",
+                "Saudi Arabia",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Somalia",
+                "South Africa",
+                "South Korea",
+                "Sri Lanka",
+                "Syria",
+                "Tanzania",
+                "Tonga",
+                "Tunisia",
+                "Uganda",
+                "Venezuela",
+                "Zambia"
+            ]
+        },
+        {
+            "ph": "Mga bansa na 3 words ang pangalan",
+            "en": "Countries with three word names",
+            "answers": [
+                "Antigua and Barbuda",
+                "Bosnia and Herzegovina",
+                "Central African Republic",
+                "Papua New Guinea",
+                "Trinidad and Tobago",
+                "United Arab Emirates",
+                "United States of America"
+            ]
+        }
+    ],
+    "thing": [
+        {
+            "en": "Things that start with the letter A",
+            "ph": "Mga bagay na nagsisimula sa letrang A (english)",
+            "answers": [
+                "Airplane",
+                "Anchor",
+                "Arrow",
+                "Axe",
+                "Apron",
+                "Automobile",
+                "Alarm clock",
+                "Atlas",
+                "Antenna",
+                "Apartment"
+            ]
+        },
+        {
+            "en": "Things that start with the letter B",
+            "ph": "Mga bagay na nagsisimula sa letrang B (english)",
+            "answers": [
+                "Ball",
+                "Bicycle",
+                "Book",
+                "Bridge",
+                "Bottle",
+                "Bench",
+                "Backpack",
+                "Bowl",
+                "Basket",
+                "Brush"
+            ]
+        },
+        {
+            "en": "Things that start with the letter C",
+            "ph": "Mga bagay na nagsisimula sa letrang C (english)",
+            "answers": [
+                "Car",
+                "Chair",
+                "Computer",
+                "Cup",
+                "Clock",
+                "Camera",
+                "Candle",
+                "Cabinet",
+                "Cushion",
+                "Curtain"
+            ]
+        },
+        {
+            "en": "Things that start with the letter D",
+            "ph": "Mga bagay na nagsisimula sa letrang D (english)",
+            "answers": [
+                "Desk",
+                "Door",
+                "Drum",
+                "Drawer",
+                "Dresser",
+                "Dish",
+                "DVD",
+                "Dock",
+                "Diamond",
+                "Drone"
+            ]
+        },
+        {
+            "en": "Things that start with the letter E",
+            "ph": "Mga bagay na nagsisimula sa letrang E (english)",
+            "answers": [
+                "Envelope",
+                "Engine",
+                "Elevator",
+                "Extension cord",
+                "Earphones",
+                "Eraser",
+                "Electric guitar",
+                "Exhaust fan"
+            ]
+        },
+        {
+            "en": "Things that start with the letter F",
+            "ph": "Mga bagay na nagsisimula sa letrang F (english)",
+            "answers": [
+                "Fork",
+                "Fan",
+                "Frame",
+                "Fridge",
+                "Fence",
+                "File",
+                "Flute",
+                "Flashlight",
+                "Faucet",
+                "Flag"
+            ]
+        },
+        {
+            "en": "Things that start with the letter G",
+            "ph": "Mga bagay na nagsisimula sa letrang G (english)",
+            "answers": [
+                "Glove",
+                "Guitar",
+                "Glasses",
+                "Gate",
+                "Globe",
+                "Grill",
+                "Gavel",
+                "Garden",
+                "Generator",
+                "Gown"
+            ]
+        },
+        {
+            "en": "Things that start with the letter H",
+            "ph": "Mga bagay na nagsisimula sa letrang H (english)",
+            "answers": [
+                "Hammer",
+                "Helmet",
+                "Hose",
+                "Hanger",
+                "Headphones",
+                "Hat",
+                "Heater",
+                "House",
+                "Hydrant",
+                "Hook"
+            ]
+        },
+        {
+            "en": "Things that start with the letter I",
+            "ph": "Mga bagay na nagsisimula sa letrang I (english)",
+            "answers": [
+                "Iron",
+                "Igloo",
+                "Ink",
+                "Instrument",
+                "Ice",
+                "Island",
+                "Iceberg",
+                "Ironing board",
+                "Ivory"
+            ]
+        },
+        {
+            "en": "Things that start with the letter J",
+            "ph": "Mga bagay na nagsisimula sa letrang J (english)",
+            "answers": [
+                "Jar",
+                "Jacket",
+                "Jeans",
+                "Joystick",
+                "Journal",
+                "Jug",
+                "Jewelry",
+                "Jet",
+                "Jigsaw",
+                "Jersey"
+            ]
+        },
+        {
+            "en": "Things that start with the letter K",
+            "ph": "Mga bagay na nagsisimula sa letrang K (english)",
+            "answers": [
+                "Key",
+                "Kettle",
+                "Keyboard",
+                "Knife",
+                "Kite",
+                "Kayak",
+                "Knob",
+                "Kiosk",
+                "Knee pad",
+                "Knapsack"
+            ]
+        },
+        {
+            "en": "Things that start with the letter L",
+            "ph": "Mga bagay na nagsisimula sa letrang L (english)",
+            "answers": [
+                "Lamp",
+                "Laptop",
+                "Ladder",
+                "Lock",
+                "Lantern",
+                "Letter",
+                "Lens",
+                "Luggage",
+                "Log",
+                "Lunchbox"
+            ]
+        },
+        {
+            "en": "Things that start with the letter M",
+            "ph": "Mga bagay na nagsisimula sa letrang M (english)",
+            "answers": [
+                "Mirror",
+                "Microwave Oven",
+                "Marker",
+                "Magazine",
+                "Motorcycle",
+                "Mat",
+                "Monitor",
+                "Map",
+                "Mug",
+                "Mask"
+            ]
+        },
+        {
+            "en": "Things that start with the letter N",
+            "ph": "Mga bagay na nagsisimula sa letrang N (english)",
+            "answers": [
+                "Notebook",
+                "Napkin",
+                "Needle",
+                "Net",
+                "Newspaper",
+                "Necklace",
+                "Nail",
+                "Nightstand",
+                "Name tag",
+                "Neon sign"
+            ]
+        },
+        {
+            "en": "Things that start with the letter O",
+            "ph": "Mga bagay na nagsisimula sa letrang O (english)",
+            "answers": [
+                "Oven",
+                "Ornament",
+                "Outlet",
+                "Oil",
+                "Organizer",
+                "Oscilloscope",
+                "Ottoman",
+                "Overcoat",
+                "Oar",
+                "Obelisk"
+            ]
+        },
+        {
+            "en": "Things that start with the letter P",
+            "ph": "Mga bagay na nagsisimula sa letrang P (english)",
+            "answers": [
+                "Pencil",
+                "Paper",
+                "Phone",
+                "Printer",
+                "Plate",
+                "Pillow",
+                "Pen",
+                "Paint",
+                "Passport",
+                "Projector"
+            ]
+        },
+        {
+            "en": "Things that start with the letter Q",
+            "ph": "Mga bagay na nagsisimula sa letrang Q (english)",
+            "answers": [
+                "Quilt",
+                "Quadcopter",
+                "Quartz",
+                "Quill",
+                "Quicksand"
+            ]
+        },
+        {
+            "en": "Things that start with the letter R",
+            "ph": "Mga bagay na nagsisimula sa letrang R (english)",
+            "answers": [
+                "Radio",
+                "Ruler",
+                "Rug",
+                "Refrigerator",
+                "Rocket",
+                "Router",
+                "Ring",
+                "Rope",
+                "Rack",
+                "Remote Control"
+            ]
+        },
+        {
+            "en": "Things that start with the letter S",
+            "ph": "Mga bagay na nagsisimula sa letrang S (english)",
+            "answers": [
+                "Spoon",
+                "Sofa",
+                "Shelf",
+                "Scissors",
+                "Stove",
+                "Suitcase",
+                "Screen",
+                "Speakers",
+                "Shovel",
+                "Stapler"
+            ]
+        },
+        {
+            "en": "Things that start with the letter T",
+            "ph": "Mga bagay na nagsisimula sa letrang T (english)",
+            "answers": [
+                "Table",
+                "Television",
+                "Towel",
+                "Telephone",
+                "Tent",
+                "Toothbrush",
+                "Toolbox",
+                "Toy",
+                "Tablet",
+                "Tape"
+            ]
+        },
+        {
+            "en": "Things that start with the letter U",
+            "ph": "Mga bagay na nagsisimula sa letrang U (english)",
+            "answers": [
+                "Umbrella",
+                "Uniform",
+                "Urn",
+                "Upholstery",
+                "USB drive",
+                "Ultrasound",
+                "Utensil",
+                "Utility belt",
+                "Unicycle"
+            ]
+        },
+        {
+            "en": "Things that start with the letter V",
+            "ph": "Mga bagay na nagsisimula sa letrang V (english)",
+            "answers": [
+                "Vase",
+                "Violin",
+                "Van",
+                "Vest",
+                "Vise",
+                "Vent",
+                "Video",
+                "Vacuum",
+                "Velvet",
+                "Voltmeter"
+            ]
+        },
+        {
+            "en": "Things that start with the letter W",
+            "ph": "Mga bagay na nagsisimula sa letrang W (english)",
+            "answers": [
+                "Watch",
+                "Window",
+                "Wallet",
+                "Wheel",
+                "Whistle",
+                "Washer",
+                "Wrench",
+                "Wallpaper",
+                "Wardrobe",
+                "Wire"
+            ]
+        },
+        {
+            "en": "Things that start with the letter Y",
+            "ph": "Mga bagay na nagsisimula sa letrang Y (english)",
+            "answers": [
+                "Yacht",
+                "Yak",
+                "Yarn",
+                "Yardstick",
+                "Yoyo",
+                "Yoga mat",
+                "Yearbook"
+            ]
+        }
+    ]
+}

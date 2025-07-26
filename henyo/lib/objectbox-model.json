@@ -1,0 +1,1179 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:8337891381225253333",
+      "lastPropertyId": "10:5838753207963671",
+      "name": "User",
+      "properties": [
+        {
+          "id": "1:955149471734024219",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "3:6253876491277705486",
+          "name": "score",
+          "type": 6
+        },
+        {
+          "id": "4:1481691394630716457",
+          "name": "streak",
+          "type": 6
+        },
+        {
+          "id": "5:1460907795326881774",
+          "name": "credits",
+          "type": 6
+        },
+        {
+          "id": "7:3414585871549042080",
+          "name": "username",
+          "type": 9
+        },
+        {
+          "id": "8:1968594777696904716",
+          "name": "totalScore",
+          "type": 6
+        },
+        {
+          "id": "9:4476583761548650461",
+          "name": "alias",
+          "type": 9
+        },
+        {
+          "id": "10:5838753207963671",
+          "name": "totalStreak",
+          "type": 6
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "3:5783522006741573938",
+      "lastPropertyId": "14:2966435453820498326",
+      "name": "Record",
+      "flags": 2,
+      "properties": [
+        {
+          "id": "1:1352611976177432307",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:4608040971082172492",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "3:2537658146922991112",
+          "name": "score",
+          "type": 6
+        },
+        {
+          "id": "4:2006151682387302981",
+          "name": "streak",
+          "type": 6
+        },
+        {
+          "id": "6:2897492395667335899",
+          "name": "alias",
+          "type": 9
+        },
+        {
+          "id": "9:9013804055736917533",
+          "name": "totalScore",
+          "type": 6
+        },
+        {
+          "id": "10:56033446653366544",
+          "name": "totalStreak",
+          "type": 6
+        },
+        {
+          "id": "11:5051070214862653365",
+          "name": "created",
+          "type": 6
+        },
+        {
+          "id": "12:7281011652600919297",
+          "name": "modified",
+          "type": 6
+        },
+        {
+          "id": "13:2482626607897630793",
+          "name": "extraData",
+          "type": 9
+        },
+        {
+          "id": "14:2966435453820498326",
+          "name": "secureData",
+          "type": 9
+        }
+      ],
+      "relations": [
+        {
+          "id": "2:8911524407962172454",
+          "name": "records",
+          "targetId": "3:5783522006741573938"
+        }
+      ]
+    },
+    {
+      "id": "4:7052043762388120486",
+      "lastPropertyId": "5:4218121387349172514",
+      "name": "HenyoWords",
+      "properties": [
+        {
+          "id": "1:7321231903375053167",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:3893457217579364002",
+          "name": "uploadDate",
+          "type": 6
+        },
+        {
+          "id": "3:7085226012256956500",
+          "name": "wordsList",
+          "type": 9
+        },
+        {
+          "id": "4:6812937383765379429",
+          "name": "dictionaryList",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "5:452972009323392656",
+      "lastPropertyId": "3:800366785674581471",
+      "name": "Secure",
+      "properties": [
+        {
+          "id": "1:1840549727271818764",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:839596683935434661",
+          "name": "publicKey",
+          "type": 9
+        },
+        {
+          "id": "3:800366785674581471",
+          "name": "privateKey",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "6:1953685029273375020",
+      "lastPropertyId": "15:9055284720056366404",
+      "name": "UserSettings",
+      "properties": [
+        {
+          "id": "1:4195315267500522983",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "3:9133076033797252738",
+          "name": "locale",
+          "type": 9
+        },
+        {
+          "id": "4:3438087563081831586",
+          "name": "splashPageMessageTimestamp",
+          "type": 6
+        },
+        {
+          "id": "5:874318227627577792",
+          "name": "serverPublicKey",
+          "type": 9
+        },
+        {
+          "id": "6:6754773609022631754",
+          "name": "enableSpeechTotext",
+          "type": 1
+        },
+        {
+          "id": "7:8123231958999573960",
+          "name": "removeAds",
+          "type": 1
+        },
+        {
+          "id": "8:2516783262171086916",
+          "name": "colorTheme",
+          "type": 6
+        },
+        {
+          "id": "9:1841318852079437460",
+          "name": "difficulty",
+          "type": 9
+        },
+        {
+          "id": "10:6187566578591641618",
+          "name": "dailyRewardLastGiven",
+          "type": 6
+        },
+        {
+          "id": "11:2905565471258438138",
+          "name": "ablyApiKey",
+          "type": 9
+        },
+        {
+          "id": "12:3037344242134173780",
+          "name": "nextRewardTimestamp",
+          "type": 6
+        },
+        {
+          "id": "13:5214016777957871429",
+          "name": "autoStartVoiceEntry",
+          "type": 1
+        },
+        {
+          "id": "14:4861808652355446987",
+          "name": "showHistory",
+          "type": 1
+        },
+        {
+          "id": "15:9055284720056366404",
+          "name": "useCustomKeyboard",
+          "type": 1
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "7:4507075144513862204",
+      "lastPropertyId": "6:1958859067234068870",
+      "name": "UserGuesses",
+      "properties": [
+        {
+          "id": "1:1170767639282088984",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:5216024513232133020",
+          "name": "timestamp",
+          "type": 6
+        },
+        {
+          "id": "3:6212215561568111130",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "4:2148010880647011140",
+          "name": "word",
+          "type": 9
+        },
+        {
+          "id": "5:5431216141250240229",
+          "name": "attempts",
+          "type": 9
+        },
+        {
+          "id": "6:1958859067234068870",
+          "name": "extraData",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "8:6836559845437550154",
+      "lastPropertyId": "7:8088602479178741860",
+      "name": "MultiPlayerGuesses",
+      "properties": [
+        {
+          "id": "1:4468436644885299991",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:2618067634320894655",
+          "name": "timestamp",
+          "type": 6
+        },
+        {
+          "id": "3:1902675089440992808",
+          "name": "guesser",
+          "type": 9
+        },
+        {
+          "id": "4:8283783154197398087",
+          "name": "cluegiver",
+          "type": 9
+        },
+        {
+          "id": "5:7459642028886623847",
+          "name": "word",
+          "type": 9
+        },
+        {
+          "id": "6:1214253615453107091",
+          "name": "attempts",
+          "type": 9
+        },
+        {
+          "id": "7:8088602479178741860",
+          "name": "extradata",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "9:3553864346112329709",
+      "lastPropertyId": "3:7565402524389988549",
+      "name": "MultiPlayerWords",
+      "properties": [
+        {
+          "id": "1:6876299516539769761",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:136667197190095288",
+          "name": "uploadDate",
+          "type": 6
+        },
+        {
+          "id": "3:7565402524389988549",
+          "name": "multiplayerWordsList",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "10:6155634507661333354",
+      "lastPropertyId": "80:4435095355472665364",
+      "name": "GlobalMessages",
+      "properties": [
+        {
+          "id": "1:8647190902347397649",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:1412451467407435021",
+          "name": "howToPlayMessage",
+          "type": 9
+        },
+        {
+          "id": "3:2946311086661768523",
+          "name": "howToPlayMessagePH",
+          "type": 9
+        },
+        {
+          "id": "4:7839551826910947737",
+          "name": "howToPlayMessageEN",
+          "type": 9
+        },
+        {
+          "id": "5:2517054131070617257",
+          "name": "scoreBreakDownMessage",
+          "type": 9
+        },
+        {
+          "id": "6:3754187719721083749",
+          "name": "difficultyEasyLabelPH",
+          "type": 9
+        },
+        {
+          "id": "7:6609090013237147432",
+          "name": "difficultyEasyLabelEN",
+          "type": 9
+        },
+        {
+          "id": "8:5045425914115536757",
+          "name": "difficultyMediumLabelPH",
+          "type": 9
+        },
+        {
+          "id": "9:135469259895075109",
+          "name": "difficultyMediumLabelEN",
+          "type": 9
+        },
+        {
+          "id": "10:7940318905729179305",
+          "name": "difficultyHardLabelPH",
+          "type": 9
+        },
+        {
+          "id": "11:4795135191558610026",
+          "name": "difficultyHardLabelEN",
+          "type": 9
+        },
+        {
+          "id": "12:8341659694372558857",
+          "name": "backupRestoreMessagePH",
+          "type": 9
+        },
+        {
+          "id": "13:9055962115505359177",
+          "name": "backupRestoreMessageEN",
+          "type": 9
+        },
+        {
+          "id": "14:7666199652621718670",
+          "name": "partyModeMessagePH",
+          "type": 9
+        },
+        {
+          "id": "15:2740644001735250458",
+          "name": "partyModeMessageEN",
+          "type": 9
+        },
+        {
+          "id": "16:2465296089894502200",
+          "name": "weeklyWinnerFirstPlacePH",
+          "type": 9
+        },
+        {
+          "id": "17:3379434958964737427",
+          "name": "weeklyWinnerFirstPlaceEN",
+          "type": 9
+        },
+        {
+          "id": "18:5536842496634459464",
+          "name": "weeklyWinnerSecondPlacePH",
+          "type": 9
+        },
+        {
+          "id": "19:1391521533711264870",
+          "name": "weeklyWinnerSecondPlaceEN",
+          "type": 9
+        },
+        {
+          "id": "20:5074499142293818294",
+          "name": "weeklyWinnerThirdPlacePH",
+          "type": 9
+        },
+        {
+          "id": "21:7746281867249526900",
+          "name": "weeklyWinnerThirdPlaceEN",
+          "type": 9
+        },
+        {
+          "id": "22:857766294068637758",
+          "name": "dailyTokenRewardMessagePH",
+          "type": 9
+        },
+        {
+          "id": "23:8069230222570010729",
+          "name": "dailyTokenRewardMessageEN",
+          "type": 9
+        },
+        {
+          "id": "24:9210860586221253730",
+          "name": "microphoneDeniedTitlePH",
+          "type": 9
+        },
+        {
+          "id": "25:5017579702509221252",
+          "name": "microphoneDeniedTitleEN",
+          "type": 9
+        },
+        {
+          "id": "26:6561216488196468204",
+          "name": "microphonePermanentlyDeniedMessagePH",
+          "type": 9
+        },
+        {
+          "id": "27:7757322527563711884",
+          "name": "microphonePermanentlyDeniedMessageEN",
+          "type": 9
+        },
+        {
+          "id": "28:1819609816677526551",
+          "name": "microphoneDeniedMessagePH",
+          "type": 9
+        },
+        {
+          "id": "29:5155642479619778544",
+          "name": "microphoneDeniedMessageEN",
+          "type": 9
+        },
+        {
+          "id": "30:253208154469642699",
+          "name": "useHintMessagePH",
+          "type": 9
+        },
+        {
+          "id": "31:15893694244866578",
+          "name": "useHintMessageEN",
+          "type": 9
+        },
+        {
+          "id": "32:5674239311236127268",
+          "name": "infoGamePageTitlePH",
+          "type": 9
+        },
+        {
+          "id": "33:3301801471693013879",
+          "name": "infoGamePageTitleEN",
+          "type": 9
+        },
+        {
+          "id": "34:4693707271596200383",
+          "name": "infoGamePageMessagePH",
+          "type": 9
+        },
+        {
+          "id": "35:5642028780087258971",
+          "name": "infoGamePageMessageEN",
+          "type": 9
+        },
+        {
+          "id": "36:4473559397951721967",
+          "name": "infoMultiPlayerPageTitlePH",
+          "type": 9
+        },
+        {
+          "id": "37:337372488434410651",
+          "name": "infoMultiPlayerPageTitleEN",
+          "type": 9
+        },
+        {
+          "id": "38:5121191069004389964",
+          "name": "infoMultiPlayerPageMessagePH",
+          "type": 9
+        },
+        {
+          "id": "39:483921349259809429",
+          "name": "infoMultiPlayerPageMessageEN",
+          "type": 9
+        },
+        {
+          "id": "40:3695928435285174510",
+          "name": "infoMultiPlayerGuesserPageTitlePH",
+          "type": 9
+        },
+        {
+          "id": "41:463784175057018756",
+          "name": "infoMultiPlayerGuesserPageTitleEN",
+          "type": 9
+        },
+        {
+          "id": "42:9123134886673718148",
+          "name": "infoMultiPlayerGuesserPageMessagePH",
+          "type": 9
+        },
+        {
+          "id": "43:8980778215248139087",
+          "name": "infoMultiPlayerGuesserPageMessageEN",
+          "type": 9
+        },
+        {
+          "id": "44:6530264698473633684",
+          "name": "infoMultiPlayerClueGiverTitlePH",
+          "type": 9
+        },
+        {
+          "id": "45:1746863921568551112",
+          "name": "infoMultiPlayerClueGiverTitleEN",
+          "type": 9
+        },
+        {
+          "id": "46:5595486292924113316",
+          "name": "infoMultiPlayerClueGiverMessagePH",
+          "type": 9
+        },
+        {
+          "id": "47:5603965527403576543",
+          "name": "infoMultiPlayerClueGiverMessgaeEN",
+          "type": 9
+        },
+        {
+          "id": "48:2272699517450531285",
+          "name": "infoPartyModeTitlePH",
+          "type": 9
+        },
+        {
+          "id": "49:7050168949932112828",
+          "name": "infoPartyModeTitleEN",
+          "type": 9
+        },
+        {
+          "id": "50:1797812115852721633",
+          "name": "infoPartyModeMessagePH",
+          "type": 9
+        },
+        {
+          "id": "51:2897133880383357798",
+          "name": "infoPartyModeMessageEN",
+          "type": 9
+        },
+        {
+          "id": "52:9107333107408204236",
+          "name": "infoLeaderBoardTitlePH",
+          "type": 9
+        },
+        {
+          "id": "53:5281347572401170782",
+          "name": "infoLeaderBoardTitleEN",
+          "type": 9
+        },
+        {
+          "id": "54:3818695790664446945",
+          "name": "infoLeaderBoardMessagePH",
+          "type": 9
+        },
+        {
+          "id": "55:758570994206483782",
+          "name": "infoLeaderBoardMessageEN",
+          "type": 9
+        },
+        {
+          "id": "56:199569934761276647",
+          "name": "infoSettingsPageTitlePH",
+          "type": 9
+        },
+        {
+          "id": "57:3179798254873308841",
+          "name": "infoSettingsPageTitleEN",
+          "type": 9
+        },
+        {
+          "id": "58:3007604912461685673",
+          "name": "infoSettingsPageMessagePH",
+          "type": 9
+        },
+        {
+          "id": "59:5940129238023846628",
+          "name": "infoSettingsPageMessageEN",
+          "type": 9
+        },
+        {
+          "id": "60:2759003866959551729",
+          "name": "infoBackupRestoreTitlePH",
+          "type": 9
+        },
+        {
+          "id": "61:4667145988427539156",
+          "name": "infoBackupRestoreTitleEN",
+          "type": 9
+        },
+        {
+          "id": "62:5533279829002508374",
+          "name": "infoBackupRestoreMessagePH",
+          "type": 9
+        },
+        {
+          "id": "63:8791003621742615073",
+          "name": "infoBackupRestoreMessageEN",
+          "type": 9
+        },
+        {
+          "id": "64:2117135545900187264",
+          "name": "infoGimme5Round1TitlePH",
+          "type": 9
+        },
+        {
+          "id": "65:934469549233197516",
+          "name": "infoGimme5Round1TitleEN",
+          "type": 9
+        },
+        {
+          "id": "66:2124023438269622772",
+          "name": "infoGimme5Round1MessagePH",
+          "type": 9
+        },
+        {
+          "id": "67:3047966287649217332",
+          "name": "infoGimme5Round1MessageEN",
+          "type": 9
+        },
+        {
+          "id": "68:5273734480821223010",
+          "name": "infoGimme5Round2TitlePH",
+          "type": 9
+        },
+        {
+          "id": "69:6169778157757110675",
+          "name": "infoGimme5Round2TitleEN",
+          "type": 9
+        },
+        {
+          "id": "70:6741973921363828142",
+          "name": "infoGimme5Round2MessagePH",
+          "type": 9
+        },
+        {
+          "id": "71:7545375413387570458",
+          "name": "infoGimme5Round2MessageEN",
+          "type": 9
+        },
+        {
+          "id": "72:9092882504251596526",
+          "name": "infoGimme5Round3TitlePH",
+          "type": 9
+        },
+        {
+          "id": "73:3747560875640054543",
+          "name": "infoGimme5Round3TitleEN",
+          "type": 9
+        },
+        {
+          "id": "74:5510710518419881952",
+          "name": "infoGimme5Round3MessagePH",
+          "type": 9
+        },
+        {
+          "id": "75:6146951846662802013",
+          "name": "infoGimme5Round3MessageEN",
+          "type": 9
+        },
+        {
+          "id": "76:5565873771586920479",
+          "name": "infoGimme5TitleName",
+          "type": 9
+        },
+        {
+          "id": "77:1884935812831969546",
+          "name": "infoMainMenuGimme5Title",
+          "type": 9
+        },
+        {
+          "id": "78:1909180388212843649",
+          "name": "infoMainMenuSoloTitle",
+          "type": 9
+        },
+        {
+          "id": "79:3314409398964916833",
+          "name": "infoMainMenuMultiPlayer5Title",
+          "type": 9
+        },
+        {
+          "id": "80:4435095355472665364",
+          "name": "infoMainMenuPartyTitle",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "11:480350924803970516",
+      "lastPropertyId": "35:5501694433749362027",
+      "name": "GlobalSettings",
+      "properties": [
+        {
+          "id": "1:4482351562319230942",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:8585065984583633881",
+          "name": "showTestAds",
+          "type": 1
+        },
+        {
+          "id": "3:3327248228788832777",
+          "name": "displayRewardedAdAfterThisManyTries",
+          "type": 6
+        },
+        {
+          "id": "4:6731511817178809610",
+          "name": "displayInstertitialAdAfterThisManyTries",
+          "type": 6
+        },
+        {
+          "id": "5:678697200398573737",
+          "name": "rewardedAdAmount",
+          "type": 6
+        },
+        {
+          "id": "6:1478290298761114490",
+          "name": "dailyTokenReward",
+          "type": 6
+        },
+        {
+          "id": "7:8531295015989515510",
+          "name": "voiceEntryFee",
+          "type": 6
+        },
+        {
+          "id": "8:5745079577755610217",
+          "name": "hintFee",
+          "type": 6
+        },
+        {
+          "id": "9:6482896237784924764",
+          "name": "maxGuessTriesForAward",
+          "type": 6
+        },
+        {
+          "id": "10:1297284904093315883",
+          "name": "msPauseForVoiceEntry",
+          "type": 6
+        },
+        {
+          "id": "11:6735138224504707449",
+          "name": "promptForGamePageVoiceEntry",
+          "type": 1
+        },
+        {
+          "id": "12:56105838350528321",
+          "name": "promptForHenyoPartyVoiceEntry",
+          "type": 1
+        },
+        {
+          "id": "13:7432372360384892028",
+          "name": "gameDuration",
+          "type": 6
+        },
+        {
+          "id": "14:7112236758898753022",
+          "name": "rewardedAdNextAvailableInMs",
+          "type": 6
+        },
+        {
+          "id": "15:4860704034843942516",
+          "name": "lowTokenCountThreshold",
+          "type": 6
+        },
+        {
+          "id": "16:6597180641274014391",
+          "name": "maxTriesForHintToAppear",
+          "type": 6
+        },
+        {
+          "id": "17:6113613624702850725",
+          "name": "GoogleApiServerAsia",
+          "type": 9
+        },
+        {
+          "id": "18:8553879108182693307",
+          "name": "GoogleApiServerUS",
+          "type": 9
+        },
+        {
+          "id": "19:7913443462439604466",
+          "name": "GoogleProjectID",
+          "type": 9
+        },
+        {
+          "id": "20:4541812016442768480",
+          "name": "promptCompareTwoWords",
+          "type": 9
+        },
+        {
+          "id": "21:5893719492993124907",
+          "name": "promptGimme5Round1",
+          "type": 9
+        },
+        {
+          "id": "22:1627963583784078814",
+          "name": "promptValidateUsername",
+          "type": 9
+        },
+        {
+          "id": "23:1924643528995275502",
+          "name": "enableAutoComplete",
+          "type": 1
+        },
+        {
+          "id": "24:3344813700392599381",
+          "name": "bannerAdUnitIdAndroid",
+          "type": 9
+        },
+        {
+          "id": "25:1560100660958950812",
+          "name": "bannerAdUnitIdIOS",
+          "type": 9
+        },
+        {
+          "id": "26:4582593850439305660",
+          "name": "nativeAdUnitIdAndroid",
+          "type": 9
+        },
+        {
+          "id": "27:3715979148060517320",
+          "name": "nativeAdUnitIdIOS",
+          "type": 9
+        },
+        {
+          "id": "28:5302926373252304511",
+          "name": "interstitialAdUnitIdAndroid",
+          "type": 9
+        },
+        {
+          "id": "29:4944263760437413302",
+          "name": "interstitialAdUnitIdIOS",
+          "type": 9
+        },
+        {
+          "id": "30:1417085284405014517",
+          "name": "rewardedAdUnitIdAndroid",
+          "type": 9
+        },
+        {
+          "id": "31:1393518839472022435",
+          "name": "rewardedAdUnitIdIOS",
+          "type": 9
+        },
+        {
+          "id": "32:8615905151362957964",
+          "name": "rewardedInterstitialAdUnitIdAndroid",
+          "type": 9
+        },
+        {
+          "id": "33:4425475818062945799",
+          "name": "rewardedInterstitialAdUnitIdIOS",
+          "type": 9
+        },
+        {
+          "id": "34:1969490795588459995",
+          "name": "appOpenAdUnitIdAndroid",
+          "type": 9
+        },
+        {
+          "id": "35:5501694433749362027",
+          "name": "appOpenAdUnitIdIOS",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "12:3998121607346330943",
+      "lastPropertyId": "13:3802943932298895286",
+      "name": "ShowOnce",
+      "properties": [
+        {
+          "id": "1:5837378915086516689",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:7970938714012623232",
+          "name": "infoGamePageShown",
+          "type": 1
+        },
+        {
+          "id": "3:8156225551492267964",
+          "name": "infoMultiPlayerPageShown",
+          "type": 1
+        },
+        {
+          "id": "4:345928748210136651",
+          "name": "infoMultiPlayerGuesserShown",
+          "type": 1
+        },
+        {
+          "id": "5:4870689471514943504",
+          "name": "infoMultiPlayerClueGiverShown",
+          "type": 1
+        },
+        {
+          "id": "6:3002789488718419133",
+          "name": "infoPartyModeShown",
+          "type": 1
+        },
+        {
+          "id": "7:3870263832684833932",
+          "name": "infoLeaderBoardShown",
+          "type": 1
+        },
+        {
+          "id": "8:1975277245181878469",
+          "name": "infoSettingsPageShown",
+          "type": 1
+        },
+        {
+          "id": "9:4031714207831940665",
+          "name": "infoBackupRestoreShown",
+          "type": 1
+        },
+        {
+          "id": "10:5458788874725660987",
+          "name": "autoStartVoiceEntryFeeNotice",
+          "type": 1
+        },
+        {
+          "id": "11:6608868390497164251",
+          "name": "infoGimme5Round1",
+          "type": 1
+        },
+        {
+          "id": "12:3010544050677823342",
+          "name": "infoGimme5Round2",
+          "type": 1
+        },
+        {
+          "id": "13:3802943932298895286",
+          "name": "infoGimme5Round3",
+          "type": 1
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "13:4497512682467675448",
+      "lastPropertyId": "2:1374747330553960591",
+      "name": "WordsHistory",
+      "properties": [
+        {
+          "id": "1:4918575925471506150",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:1374747330553960591",
+          "name": "wordsHistoryJson",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "14:6915311730474207454",
+      "lastPropertyId": "3:1159539306641497577",
+      "name": "JsonDictionary",
+      "properties": [
+        {
+          "id": "1:2032507529808793432",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:3195569236611189513",
+          "name": "dictionaryDate",
+          "type": 6
+        },
+        {
+          "id": "3:1159539306641497577",
+          "name": "dictionaryJson",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "15:6337622698383872891",
+      "lastPropertyId": "3:72668984835946937",
+      "name": "JsonGimme5Round1",
+      "properties": [
+        {
+          "id": "1:4271787695460743225",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:2956209867754068244",
+          "name": "gimme5Round1Date",
+          "type": 6
+        },
+        {
+          "id": "3:72668984835946937",
+          "name": "gimme5Round1Json",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "16:1833594330104087213",
+      "lastPropertyId": "3:572116520415165244",
+      "name": "JsonMultiplayer",
+      "properties": [
+        {
+          "id": "1:8321648189365225469",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:2486217045212564830",
+          "name": "multiplayerDate",
+          "type": 6
+        },
+        {
+          "id": "3:572116520415165244",
+          "name": "multiplayerJson",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "17:2718004739817447596",
+      "lastPropertyId": "4:5243314516766630352",
+      "name": "JsonWords",
+      "properties": [
+        {
+          "id": "1:1114158895445822207",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:1545002640994535175",
+          "name": "wordsDate",
+          "type": 6
+        },
+        {
+          "id": "3:1419122765081248002",
+          "name": "wordsJson",
+          "type": 9
+        },
+        {
+          "id": "4:5243314516766630352",
+          "name": "wordsReducedJson",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "17:2718004739817447596",
+  "lastIndexId": "1:5253166223791879772",
+  "lastRelationId": "2:8911524407962172454",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [
+    287120643309799686
+  ],
+  "retiredIndexUids": [
+    5253166223791879772
+  ],
+  "retiredPropertyUids": [
+    3833800551802474729,
+    3534231420205398537,
+    8379556868816525194,
+    4524919784554377761,
+    8068298250801925817,
+    5040511986634850491,
+    4334735425209194577,
+    2705632597208730037,
+    111019196349642777,
+    4218121387349172514
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}

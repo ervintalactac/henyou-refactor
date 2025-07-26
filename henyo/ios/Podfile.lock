@@ -1,0 +1,150 @@
+PODS:
+  - Ably (1.2.33):
+    - AblyDeltaCodec (= 1.3.3)
+    - msgpack (= 0.4.0)
+  - ably_flutter (1.2.34):
+    - Ably (= 1.2.33)
+    - Flutter
+  - AblyDeltaCodec (1.3.3)
+  - audio_session (0.0.1):
+    - Flutter
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - ReachabilitySwift
+  - Flutter (1.0.0)
+  - flutter_device_id (0.0.1):
+    - Flutter
+  - flutter_keyboard_visibility (0.0.1):
+    - Flutter
+  - flutter_native_splash (0.0.1):
+    - Flutter
+  - Google-Mobile-Ads-SDK (11.2.0):
+    - GoogleUserMessagingPlatform (>= 1.1)
+  - google_mobile_ads (5.1.0):
+    - Flutter
+    - Google-Mobile-Ads-SDK (~> 11.2.0)
+    - webview_flutter_wkwebview
+  - GoogleUserMessagingPlatform (2.5.0)
+  - just_audio (0.0.1):
+    - Flutter
+  - msgpack (0.4.0)
+  - ObjectBox (2.0.0-sync)
+  - objectbox_sync_flutter_libs (0.0.1):
+    - Flutter
+    - ObjectBox (= 2.0.0-sync)
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - ReachabilitySwift (5.2.3)
+  - record_darwin (1.0.0):
+    - Flutter
+    - FlutterMacOS
+  - rive_common (0.0.1):
+    - Flutter
+  - speech_to_text (0.0.1):
+    - Flutter
+    - Try
+  - Try (2.1.1)
+  - webview_flutter_wkwebview (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - ably_flutter (from `.symlinks/plugins/ably_flutter/ios`)
+  - audio_session (from `.symlinks/plugins/audio_session/ios`)
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_device_id (from `.symlinks/plugins/flutter_device_id/ios`)
+  - flutter_keyboard_visibility (from `.symlinks/plugins/flutter_keyboard_visibility/ios`)
+  - flutter_native_splash (from `.symlinks/plugins/flutter_native_splash/ios`)
+  - google_mobile_ads (from `.symlinks/plugins/google_mobile_ads/ios`)
+  - just_audio (from `.symlinks/plugins/just_audio/ios`)
+  - objectbox_sync_flutter_libs (from `.symlinks/plugins/objectbox_sync_flutter_libs/ios`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - record_darwin (from `.symlinks/plugins/record_darwin/ios`)
+  - rive_common (from `.symlinks/plugins/rive_common/ios`)
+  - speech_to_text (from `.symlinks/plugins/speech_to_text/ios`)
+  - webview_flutter_wkwebview (from `.symlinks/plugins/webview_flutter_wkwebview/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Ably
+    - AblyDeltaCodec
+    - Google-Mobile-Ads-SDK
+    - GoogleUserMessagingPlatform
+    - msgpack
+    - ObjectBox
+    - ReachabilitySwift
+    - Try
+
+EXTERNAL SOURCES:
+  ably_flutter:
+    :path: ".symlinks/plugins/ably_flutter/ios"
+  audio_session:
+    :path: ".symlinks/plugins/audio_session/ios"
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
+  Flutter:
+    :path: Flutter
+  flutter_device_id:
+    :path: ".symlinks/plugins/flutter_device_id/ios"
+  flutter_keyboard_visibility:
+    :path: ".symlinks/plugins/flutter_keyboard_visibility/ios"
+  flutter_native_splash:
+    :path: ".symlinks/plugins/flutter_native_splash/ios"
+  google_mobile_ads:
+    :path: ".symlinks/plugins/google_mobile_ads/ios"
+  just_audio:
+    :path: ".symlinks/plugins/just_audio/ios"
+  objectbox_sync_flutter_libs:
+    :path: ".symlinks/plugins/objectbox_sync_flutter_libs/ios"
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  record_darwin:
+    :path: ".symlinks/plugins/record_darwin/ios"
+  rive_common:
+    :path: ".symlinks/plugins/rive_common/ios"
+  speech_to_text:
+    :path: ".symlinks/plugins/speech_to_text/ios"
+  webview_flutter_wkwebview:
+    :path: ".symlinks/plugins/webview_flutter_wkwebview/ios"
+
+SPEC CHECKSUMS:
+  Ably: 1d78e5dec56db6d2cf91b10d14fea796ce591bae
+  ably_flutter: e4b2f440e48855dbbd94856f27fa73dc53f17e23
+  AblyDeltaCodec: add5d06a756b3581b12aab5b5500a320b8c55bea
+  audio_session: 088d2483ebd1dc43f51d253d4a1c517d9a2e7207
+  connectivity_plus: bf0076dd84a130856aa636df1c71ccaff908fa1d
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_device_id: 5e08c59a130f06c4fcc14e4b68724883c879fb85
+  flutter_keyboard_visibility: 0339d06371254c3eb25eeb90ba8d17dca8f9c069
+  flutter_native_splash: edf599c81f74d093a4daf8e17bd7a018854bc778
+  Google-Mobile-Ads-SDK: 5a6d005a6cb5b5e8f4c7b69ca05cdea79c181139
+  google_mobile_ads: 9379c80fdfa9988fb0e105a407890ff8deb3cf86
+  GoogleUserMessagingPlatform: 6b4f48a370e77ce121d034c908cc6ee4fdafaf13
+  just_audio: baa7252489dbcf47a4c7cc9ca663e9661c99aafa
+  msgpack: c85f6251873059738472ae136951cec5f30f3251
+  ObjectBox: 06b074b9f90921a74a7beb477ab70069f8b792cb
+  objectbox_sync_flutter_libs: 0281f419c128a8f9a35c65ae4b74a8e3f820181b
+  package_info_plus: 58f0028419748fad15bf008b270aaa8e54380b1c
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  ReachabilitySwift: 7f151ff156cea1481a8411701195ac6a984f4979
+  record_darwin: df0a677188e5fed18472550298e675f19ddaffbe
+  rive_common: cbbac3192af00d7341f19dae2f26298e9e37d99e
+  speech_to_text: b43a7d99aef037bd758ed8e45d79bbac035d2dfe
+  Try: 5ef669ae832617b3cee58cb2c6f99fb767a4ff96
+  webview_flutter_wkwebview: 2a23822e9039b7b1bc52e5add778e5d89ad488d1
+
+PODFILE CHECKSUM: 12157f6a1ea7bf60c27f4220638ea513544c86d3
+
+COCOAPODS: 1.15.2

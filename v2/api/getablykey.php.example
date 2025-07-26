@@ -1,0 +1,17 @@
+<?php
+// This file should return your Ably API key
+// Store the actual key in environment variables or secure key management
+// NEVER commit API keys to version control
+
+header('Content-Type: application/json');
+
+// Example: Load from environment variable
+$ablyKey = getenv('ABLY_API_KEY');
+
+if ($ablyKey) {
+    echo json_encode(['key' => $ablyKey]);
+} else {
+    http_response_code(500);
+    echo json_encode(['error' => 'Ably API key not configured']);
+}
+?>

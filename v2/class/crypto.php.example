@@ -1,0 +1,27 @@
+<?php 
+    class Crypto{
+        private $_key;
+        private $_iv;
+        private $_name;
+        private $_nonce;
+        
+        // IMPORTANT: Store your private key in environment variables or secure key management system
+        // NEVER hardcode private keys in source code
+        private $private_key = 'YOUR_PRIVATE_KEY_HERE';
+        
+        public function encryptFile($encKey, $encIV, $inPath, $outPath) {
+            $text=file_get_contents($inPath);
+            $key = base64_decode($encKey);
+            $iv = base64_decode($encIV);
+            $path_parts = pathinfo($inPath);
+            $fileName=$path_parts['filename'];
+            $outFile=$outPath.$fileName.'.himu';
+            $encrypter = 'aes-256-cbc';
+            $encrypted = openssl_encrypt($text, $encrypter, $key, 0, $iv);
+            if(file_put_contents($outFile,$encrypted)!= false) return 1;
+            else return 0;
+        }
+        
+        // Add other methods as needed
+    }  
+?>

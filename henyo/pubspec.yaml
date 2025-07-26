@@ -1,0 +1,183 @@
+name: HenyoU
+description: Pinoy Henyo game as one player mode.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+# yyyy.M.v+b increase v for iOS and b for Android
+version: 2024.9.0+1
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  ably_flutter: ^1.2.30
+  animated_splash_screen:
+  animated_text_kit: ^4.2.2
+  auto_size_text: ^3.0.0
+  avatar_glow: any
+  basic_utils: ^5.6.1
+  built_in_keyboard:
+    git:
+      url: https://github.com/Open-pi/builtinkeyboard.git
+      ref: main  
+  connectivity_plus: ^5.0.2
+  crypto: ^3.0.3
+  # cupertino_icons: ^1.0.2
+  encrypt: ^5.0.1
+  faker: any
+  # fast_rsa: ^3.6.1
+  # flat_buffers: ^2.0.5
+  #flutter_automation:
+  flutter_glow: ^0.3.0
+  # flutter_typeahead: ^5.0.1
+  google_fonts: any 
+  google_mobile_ads: ^5.1.0
+  google_speech: ^5.2.0+1
+  horizontal_data_table: ^4.3.1
+  http: ^1.2.1
+  # json_string: ^3.0.1
+  just_audio: ^0.9.38
+  # mic_stream: ^0.7.1+2
+  # mysql1: any
+  objectbox: ^4.0.0
+  objectbox_sync_flutter_libs: ^4.0.0
+  path: any
+  path_provider: any
+  permission_handler: ^11.3.1
+  pointycastle: ^3.7.3
+  package_info_plus: ^8.0.0
+  rxdart: any
+  # sound_stream: ^0.4.1 #version issues with android
+  speech_to_text: ^6.6.0
+  # flutter_sound: ^9.2.13
+  # flutter_sound_lite: ^8.5.0 # doesn't play files reliably
+  record: ^5.0.5
+  email_validator: ^2.1.17
+  flutter_device_id: ^1.0.1
+  # keyboard_detection: ^0.7.1
+  flutter_keyboard_visibility: ^6.0.0
+  lottie: ^3.1.2
+  rive_animated_icon: ^2.0.0
+  simple_animated_button: ^0.0.9
+  animate_gradient: ^0.0.3
+  floating_text: ^0.2.0
+  nice_buttons: ^0.0.3
+  flutter_gradient_app_bar: ^0.3.1
+  flutter_screen_scaler: ^2.1.0
+  flutter_animate: ^4.5.0
+  vertex_ai: ^0.1.0+1
+  googleapis_auth: ^1.6.0
+  # gemini_ai: ^1.0.1
+  gemini_flutter: ^0.1.1
+  chat_gpt_sdk: ^3.0.9
+  sprintf: ^7.0.0
+  smart_autocomplete: ^1.2.3
+  # extended_keyboard: ^0.0.3
+  # flutter_hooks: ^0.20.5
+  # typing_animation: ^0.0.1
+  # animate_text: ^1.0.0
+  # flutter_animated_icons: ^1.0.1
+  # flutter_device_id: ^1.0.1
+  # assemblyai_flutter_sdk: ^0.0.10
+  # web_socket_channel: ^2.1.0
+  # speech_to_text_google_dialog: ^0.0.6
+  # sound_stream: ^0.3.0 # crashes the app for some reason
+  # stack_appodeal_flutter: ^3.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^4.0.0
+  flutter_native_splash: ^2.4.0
+  
+  build_runner: ^2.4.10
+  objectbox_generator: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  # for android
+  android: true
+  image_path_android: assets/HenyoU_icon_android.png
+  min_sdk_android: 21
+  # adaptive_icon_background: '#E9EEEE'
+  # adaptive_icon_foreground: assets/HenyoU_icon_android.png
+  # for ios
+  ios: false
+  image_path_ios: assets/HenyoU_icon.png
+  remove_alpha_ios:
+  
+flutter_native_splash:
+  image: assets/lightbulb_brain.png
+  color: "#E9EEEE"
+  image_dark: assets/lightbulb_brain.png
+  color_dark: "#E9EEEE"
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - json/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
