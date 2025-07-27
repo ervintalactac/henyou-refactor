@@ -1,0 +1,61 @@
+{
+  "name": "henyou-backend",
+  "version": "1.0.0",
+  "description": "Node.js backend for HenyoU word guessing game",
+  "main": "dist/server.js",
+  "scripts": {
+    "start": "node dist/server.js",
+    "dev": "nodemon src/server.ts",
+    "build": "tsc",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint src/**/*.ts",
+    "lint:fix": "eslint src/**/*.ts --fix",
+    "migrate": "node-pg-migrate",
+    "migrate:create": "node-pg-migrate create",
+    "seed": "ts-node src/database/seeds"
+  },
+  "keywords": ["game", "api", "nodejs", "typescript", "postgresql"],
+  "author": "HenyoU Team",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.4.5",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.9.0",
+    "express-validator": "^7.0.1",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.1",
+    "morgan": "^1.10.0",
+    "pg": "^8.11.2",
+    "redis": "^4.6.7",
+    "socket.io": "^4.7.2",
+    "winston": "^3.10.0",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/cors": "^2.8.13",
+    "@types/jest": "^29.5.3",
+    "@types/jsonwebtoken": "^9.0.2",
+    "@types/morgan": "^1.9.4",
+    "@types/pg": "^8.10.2",
+    "@typescript-eslint/eslint-plugin": "^6.2.0",
+    "@typescript-eslint/parser": "^6.2.0",
+    "eslint": "^8.45.0",
+    "jest": "^29.6.2",
+    "node-pg-migrate": "^6.2.2",
+    "nodemon": "^3.0.1",
+    "supertest": "^6.3.3",
+    "ts-jest": "^29.1.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}
