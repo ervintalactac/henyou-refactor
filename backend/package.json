@@ -15,7 +15,13 @@
     "migrate:create": "node-pg-migrate create",
     "seed": "ts-node src/database/seeds"
   },
-  "keywords": ["game", "api", "nodejs", "typescript", "postgresql"],
+  "keywords": [
+    "game",
+    "api",
+    "nodejs",
+    "typescript",
+    "postgresql"
+  ],
   "author": "HenyoU Team",
   "license": "UNLICENSED",
   "dependencies": {
@@ -57,5 +63,6 @@
   "engines": {
     "node": ">=18.0.0",
     "npm": ">=9.0.0"
-  }
+  },
+  "type": "commonjs"
 }
